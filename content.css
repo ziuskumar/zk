@@ -1,0 +1,36 @@
+
+.a{
+    width: 300px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.b{
+    width: 300px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.c{
+    width: 300px;
+    border:5px solid black;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.hw{
+    padding-top: 240px;
+    text-align: start;
+}
+
+a:hover{
+    color:aliceblue;
+}
+body{
+    background-color:burlywood
+}
